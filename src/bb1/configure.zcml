@@ -23,6 +23,13 @@
      for="zope.container.interfaces.IContainer"
      name="index"
      />
+     
+  <browser:page
+     for="zope.site.interfaces.IRootFolder"
+     name="hello"
+     permission="zope.Public"
+     class=".myhello.HelloView"
+     />
 
   <!-- To remove the sample application delete the following line
        and remove the `welcome` folder from this directory.

@@ -1,0 +1,30 @@
+------
+2017-03-01T22:53:50 WARNING root Developer mode is enabled: this is a security risk and should NOT be enabled on production servers. Developer mode can usually be turned off by setting the `devmode` option to `off` or by removing it from the instance configuration file completely.
+------
+2017-03-01T22:53:51 INFO ZODB.blob (25622) Blob directory var/blob does not exist. Selected `bushy` layout. 
+------
+2017-03-01T22:53:51 INFO ZODB.blob (25622) Blob directory '/home/gelie/Projects/bb1/var/blob/' does not exist. Created new directory.
+------
+2017-03-01T22:53:51 INFO ZODB.blob (25622) Blob temporary directory 'var/blob/tmp' does not exist. Created new directory.
+------
+2017-03-01T22:57:01 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-01T22:57:01 INFO paste.httpserver.ThreadPool All workers stopped
+------
+2017-03-01T22:57:01 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-01T22:57:01 INFO paste.httpserver.ThreadPool All workers stopped
+------
+2017-03-01T22:57:54 WARNING root Developer mode is enabled: this is a security risk and should NOT be enabled on production servers. Developer mode can usually be turned off by setting the `devmode` option to `off` or by removing it from the instance configuration file completely.
+------
+2017-03-01T22:57:55 WARNING ZODB.FileStorage Ignoring index for var/filestorage/Data.fs
+------
+2017-03-01T23:17:11 WARNING root Developer mode is enabled: this is a security risk and should NOT be enabled on production servers. Developer mode can usually be turned off by setting the `devmode` option to `off` or by removing it from the instance configuration file completely.
+------
+2017-03-01T23:17:36 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-01T23:17:36 INFO paste.httpserver.ThreadPool All workers stopped
+------
+2017-03-01T23:17:36 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-01T23:17:36 INFO paste.httpserver.ThreadPool All workers stopped
