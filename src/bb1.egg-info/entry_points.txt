@@ -1,0 +1,7 @@
+
+      [paste.app_factory]
+      main = bb1.startup:application_factory
+
+      [paste.global_paster_command]
+      shell = bb1.debug:Shell
+      

@@ -1,0 +1,20 @@
+<configure
+   xmlns="http://namespaces.zope.org/zope"
+   i18n_domain="bb1">
+
+<!-- This file is mostly identical to site.zcml, except the manager password -->
+
+  <include package="bb1" />
+
+  <principal 
+      id="zope.manager"
+      title="Manager"
+      login="mgr"
+      password="mgrpw"
+      password_manager="Plain Text"
+      />
+  <grant role="zope.Manager"
+         principal="zope.manager" />
+
+
+</configure>
