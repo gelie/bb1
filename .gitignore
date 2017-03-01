@@ -1,0 +1,6 @@
+bin/
+develop-eggs/
+eggs/
+extends-cache/
+src/bb1.egg-info/*
+.installed.cfg
