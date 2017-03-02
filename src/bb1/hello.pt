@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <title>hello world page</title>
+  </head>
+  <body>
+    <div tal:content="view/getText">
+      fake content
+    </div>
+  </body>
+</html>

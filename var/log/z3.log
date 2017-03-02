@@ -50,3 +50,51 @@
 2017-03-02T13:53:53 WARNING root Developer mode is enabled: this is a security risk and should NOT be enabled on production servers. Developer mode can usually be turned off by setting the `devmode` option to `off` or by removing it from the instance configuration file completely.
 ------
 2017-03-02T13:53:54 WARNING ZODB.blob (26814) Blob dir /home/gelie/Projects/bb1/var/blob/ has insecure mode setting
+------
+2017-03-02T14:06:58 WARNING root Developer mode is enabled: this is a security risk and should NOT be enabled on production servers. Developer mode can usually be turned off by setting the `devmode` option to `off` or by removing it from the instance configuration file completely.
+------
+2017-03-02T14:06:59 WARNING ZODB.blob (26936) Blob dir /home/gelie/Projects/bb1/var/blob/ has insecure mode setting
+------
+2017-03-02T14:13:55 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-02T14:13:55 INFO paste.httpserver.ThreadPool All workers stopped
+------
+2017-03-02T14:13:55 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-02T14:13:55 INFO paste.httpserver.ThreadPool All workers stopped
+------
+2017-03-02T14:13:59 WARNING root Developer mode is enabled: this is a security risk and should NOT be enabled on production servers. Developer mode can usually be turned off by setting the `devmode` option to `off` or by removing it from the instance configuration file completely.
+------
+2017-03-02T14:14:00 WARNING ZODB.blob (27012) Blob dir /home/gelie/Projects/bb1/var/blob/ has insecure mode setting
+------
+2017-03-02T14:18:46 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-02T14:18:46 INFO paste.httpserver.ThreadPool All workers stopped
+------
+2017-03-02T14:18:46 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-02T14:18:46 INFO paste.httpserver.ThreadPool All workers stopped
+------
+2017-03-02T14:18:50 WARNING root Developer mode is enabled: this is a security risk and should NOT be enabled on production servers. Developer mode can usually be turned off by setting the `devmode` option to `off` or by removing it from the instance configuration file completely.
+------
+2017-03-02T14:18:51 WARNING ZODB.blob (27065) Blob dir /home/gelie/Projects/bb1/var/blob/ has insecure mode setting
+------
+2017-03-02T14:35:13 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-02T14:35:13 INFO paste.httpserver.ThreadPool All workers stopped
+------
+2017-03-02T14:35:13 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-02T14:35:13 INFO paste.httpserver.ThreadPool All workers stopped
+------
+2017-03-02T14:35:16 WARNING root Developer mode is enabled: this is a security risk and should NOT be enabled on production servers. Developer mode can usually be turned off by setting the `devmode` option to `off` or by removing it from the instance configuration file completely.
+------
+2017-03-02T14:35:17 WARNING ZODB.blob (27235) Blob dir /home/gelie/Projects/bb1/var/blob/ has insecure mode setting
+------
+2017-03-02T14:37:43 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-02T14:37:43 INFO paste.httpserver.ThreadPool All workers stopped
+------
+2017-03-02T14:37:43 INFO paste.httpserver.ThreadPool Shutting down threadpool
+------
+2017-03-02T14:37:43 INFO paste.httpserver.ThreadPool All workers stopped
