@@ -1,0 +1,12 @@
+#!/home/gelie/Projects/bb1/../python2.7/bin/python
+
+import sys
+sys.path[0:0] = [
+  '/home/gelie/.eggs/zc.buildout-2.8.0-py2.7.egg',
+  '/home/gelie/Projects/python2.7/lib/python2.7/site-packages',
+  ]
+
+import zc.buildout.buildout
+
+if __name__ == '__main__':
+    sys.exit(zc.buildout.buildout.main())
