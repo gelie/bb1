@@ -2,6 +2,7 @@ README.txt
 setup.py
 src/bb1/__init__.py
 src/bb1/debug.py
+src/bb1/myhello.py
 src/bb1/startup.py
 src/bb1.egg-info/PKG-INFO
 src/bb1.egg-info/SOURCES.txt
